@@ -657,6 +657,7 @@
             "Type": "Shield",
             "Subtype": "Blessed Koran Shield",
             "Distribution": "Crafted",
+            "Rune Word": "Shael Tir Dol Thul Nef",
             "Date": "June 11, 2021 - Now",
             "Max Supply": "Unknown"
          },
@@ -923,6 +924,7 @@
             "Type": "Sword",
             "Subtype": "Templar Broadsword",
             "Distribution": "Crafted",
+            "Rune Word": "Dol Io Lum Shael Ko",
             "Date": "August 27, 2021 - Now",
             "Max Supply": "Unknown"
          },
@@ -1079,6 +1081,7 @@
          "details": {
             "Type": "Belt",
             "Subtype": "Wyrmhide Belt",
+            "Rune Word": "El Io Hel Ral",
             "Distribution": "Crafted",
             "Date": "August 27, 2021 - Now",
             "Max Supply": "Unknown"
@@ -1131,6 +1134,7 @@
             "Type": "Ring",
             "Subtype": "Inscribed Archon Band",
             "Distribution": "Crafted",
+            "Rune Word": "Eld Amn Shael Io Zod",
             "Date": "August 27, 2021 - Now",
             "Max Supply": "Unknown"
          },
