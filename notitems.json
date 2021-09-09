@@ -1,1797 +1,1705 @@
 {
-   "runeword":[
+   "runeword": [
       {
-         "id":1,
-         "name":"Steel",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00001.png",
-         "value":"0",
-         "type":"w.OneHandedWeapon",
-         "slots":[
+         "id": 1,
+         "name": "Steel",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00001.png",
+         "value": "0",
+         "type": "w.OneHandedWeapon",
+         "slots": [
             "k.LeftHand",
             "k.RightHand"
          ],
-         "isNew":false,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "isRetired":true,
-         "createdDate":0,
-         "hotness":6,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"One-Handed Sword",
-            "Subtype":"Night Blade",
-            "Rune Word":"Tir El",
-            "Distribution":"Crafted",
-            "Date":"April 20, 2021 - June 4, 2021",
-            "Max Supply":"Unknown"
+         "isNew": false,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "isRetired": true,
+         "createdDate": 0,
+         "hotness": 6,
+         "attributes": [],
+         "details": {
+            "Type": "One-Handed Sword",
+            "Subtype": "Night Blade",
+            "Rune Word": "Tir El",
+            "Distribution": "Crafted",
+            "Date": "April 20, 2021 - June 4, 2021",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.TIR",
-                  "quantity":1
+                  "id": "F.TIR",
+                  "quantity": 1
                },
                {
-                  "id":"F.EL",
-                  "quantity":1
+                  "id": "F.EL",
+                  "quantity": 1
                }
             ]
          }
-         
       },
       {
-         "id":2,
-         "name":"Fury",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00002.png",
-         "value":"0",
-         "type":"w.OneHandedWeapon",
-         "slots":[
+         "id": 2,
+         "name": "Fury",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00002.png",
+         "value": "0",
+         "type": "w.OneHandedWeapon",
+         "slots": [
             "k.RightHand",
             "k.LeftHand"
          ],
-         "isNew":false,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "isRetired":true,
-         "createdDate":0,
-         "hotness":5,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"One-Handed Sword",
-            "Subtype":"War Sword",
-            "Rune Word":"Nef Eld Tir El",
-            "Distribution":"Crafted",
-            "Date":"April 25, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": false,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "isRetired": true,
+         "createdDate": 0,
+         "hotness": 5,
+         "attributes": [],
+         "details": {
+            "Type": "One-Handed Sword",
+            "Subtype": "War Sword",
+            "Rune Word": "Nef Eld Tir El",
+            "Distribution": "Crafted",
+            "Date": "April 25, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.NEF",
-                  "quantity":1
+                  "id": "F.NEF",
+                  "quantity": 1
                },
                {
-                  "id":"F.ELD",
-                  "quantity":1
+                  "id": "F.ELD",
+                  "quantity": 1
                },
                {
-                  "id":"F.TIR",
-                  "quantity":1
+                  "id": "F.TIR",
+                  "quantity": 1
                },
                {
-                  "id":"F.EL",
-                  "quantity":1
+                  "id": "F.EL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":3,
-         "name":"Lorekeeper",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00003.png",
-         "value":"0",
-         "type":"w.Helm",
-         "slots":[
+         "id": 3,
+         "name": "Lorekeeper",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00003.png",
+         "value": "0",
+         "type": "w.Helm",
+         "slots": [
             "k.Head"
          ],
-         "isNew":false,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "isRetired":true,
-         "createdDate":0,
-         "hotness":7,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Helm",
-            "Subtype":"Archon Helm",
-            "Rune Word":"Nef Tir",
-            "Distribution":"Crafted",
-            "Date":"April 25, 2021 - June 3, 2021",
-            "Max Supply":"Unknown"
+         "isNew": false,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "isRetired": true,
+         "createdDate": 0,
+         "hotness": 7,
+         "attributes": [],
+         "details": {
+            "Type": "Helm",
+            "Subtype": "Archon Helm",
+            "Rune Word": "Nef Tir",
+            "Distribution": "Crafted",
+            "Date": "April 25, 2021 - June 3, 2021",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.NEF",
-                  "quantity":1
+                  "id": "F.NEF",
+                  "quantity": 1
                },
                {
-                  "id":"F.TIR",
-                  "quantity":1
+                  "id": "F.TIR",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":4,
-         "name":"Worldstone Shard",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/00004.png",
-         "value":"0",
-         "type":"w.Ingredient",
-         "slots":[
-            
-         ],
-         "isNew":false,
-         "isEquipable":false,
-         "isTradeable":false,
-         "isTransferable":false,
-         "isCraftable":false,
-         "isDisabled":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Ingredient",
-            "Subtype":"Relic",
-            "Distribution":"Claimable",
-            "Date":"May 3, 2021 - Now",
-            "Max Supply":"Unknown"
+         "id": 4,
+         "name": "Worldstone Shard",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/00004.png",
+         "value": "0",
+         "type": "w.Ingredient",
+         "slots": [],
+         "isNew": false,
+         "isEquipable": false,
+         "isTradeable": false,
+         "isTransferable": false,
+         "isCraftable": false,
+         "isDisabled": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Ingredient",
+            "Subtype": "Relic",
+            "Distribution": "Claimable",
+            "Date": "May 3, 2021 - Now",
+            "Max Supply": "Unknown"
          }
       },
       {
-         "id":5,
-         "name":"Flash",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00005.png",
-         "value":"0",
-         "type":"w.Boot",
-         "slots":[
+         "id": 5,
+         "name": "Flash",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00005.png",
+         "value": "0",
+         "type": "w.Boot",
+         "slots": [
             "k.Feet"
          ],
-         "isNew":false,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "isRetired":true,
-         "createdDate":0,
-         "hotness":6,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Greaves",
-            "Subtype":"Astral Greaves",
-            "Rune Word":"Ith Eld Ral Tal",
-            "Distribution":"Crafted",
-            "Date":"May 17, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": false,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "isRetired": true,
+         "createdDate": 0,
+         "hotness": 6,
+         "attributes": [],
+         "details": {
+            "Type": "Greaves",
+            "Subtype": "Astral Greaves",
+            "Rune Word": "Ith Eld Ral Tal",
+            "Distribution": "Crafted",
+            "Date": "May 17, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.ITH",
-                  "quantity":1
+                  "id": "F.ITH",
+                  "quantity": 1
                },
                {
-                  "id":"F.ELD",
-                  "quantity":1
+                  "id": "F.ELD",
+                  "quantity": 1
                },
                {
-                  "id":"F.RAL",
-                  "quantity":1
+                  "id": "F.RAL",
+                  "quantity": 1
                },
                {
-                  "id":"F.TAL",
-                  "quantity":1
+                  "id": "F.TAL",
+                  "quantity": 1
                }
             ]
          }
-         
       },
       {
-         "id":6,
-         "name":"Titan",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00006.png",
-         "value":"0",
-         "type":"w.BodyArmor",
-         "slots":[
+         "id": 6,
+         "name": "Titan",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00006.png",
+         "value": "0",
+         "type": "w.BodyArmor",
+         "slots": [
             "k.Chest"
          ],
-         "isNew":false,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "isRetired":true,
-         "createdDate":0,
-         "hotness":6,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Armor",
-            "Subtype":"Templar Forge",
-            "Rune Word":"Tal Ort Thul Eld Nef",
-            "Distribution":"Crafted",
-            "Date":"May 24, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": false,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "isRetired": true,
+         "createdDate": 0,
+         "hotness": 6,
+         "attributes": [],
+         "details": {
+            "Type": "Armor",
+            "Subtype": "Templar Forge",
+            "Rune Word": "Tal Ort Thul Eld Nef",
+            "Distribution": "Crafted",
+            "Date": "May 24, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.TAL",
-                  "quantity":1
+                  "id": "F.TAL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ORT",
-                  "quantity":1
+                  "id": "F.ORT",
+                  "quantity": 1
                },
                {
-                  "id":"F.THUL",
-                  "quantity":1
+                  "id": "F.THUL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ELD",
-                  "quantity":1
+                  "id": "F.ELD",
+                  "quantity": 1
                },
                {
-                  "id":"F.NEF",
-                  "quantity":1
+                  "id": "F.NEF",
+                  "quantity": 1
                }
             ]
          }
-         
       },
       {
-         "id":7,
-         "name":"Smoke",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00007.png",
-         "value":"0",
-         "type":"w.Glove",
-         "slots":[
+         "id": 7,
+         "name": "Smoke",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00007.png",
+         "value": "0",
+         "type": "w.Glove",
+         "slots": [
             "k.Hands"
          ],
-         "isNew":false,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "isLimited":true,
-         "isRetired":true,
-         "attributes":[
-            
-         ],
-         "createdDate":0,
-         "hotness":7,
-         "details":{
-            "Type":"Gloves",
-            "Subtype":"Shadow Wraps",
-            "Rune Word":"Thul Ith Ort Ral",
-            "Distribution":"Crafted",
-            "Date":"May 25, 2021 - June 25, 2021",
-            "Max Supply":"Limited"
+         "isNew": false,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "isLimited": true,
+         "isRetired": true,
+         "attributes": [],
+         "createdDate": 0,
+         "hotness": 7,
+         "details": {
+            "Type": "Gloves",
+            "Subtype": "Shadow Wraps",
+            "Rune Word": "Thul Ith Ort Ral",
+            "Distribution": "Crafted",
+            "Date": "May 25, 2021 - June 25, 2021",
+            "Max Supply": "Limited"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.THUL",
-                  "quantity":1
+                  "id": "F.THUL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ITH",
-                  "quantity":1
+                  "id": "F.ITH",
+                  "quantity": 1
                },
                {
-                  "id":"F.ORT",
-                  "quantity":1
+                  "id": "F.ORT",
+                  "quantity": 1
                },
                {
-                  "id":"F.RAL",
-                  "quantity":1
+                  "id": "F.RAL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":8,
-         "name":"Moda",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00008.png",
-         "value":"0",
-         "type":"w.Helm",
-         "slots":[
+         "id": 8,
+         "name": "Moda",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00008.png",
+         "value": "0",
+         "type": "w.Helm",
+         "slots": [
             "k.Head"
          ],
-         "isNew":false,
-         "isEquipable":false,
-         "isUnequipable":false,
-         "isTradeable":false,
-         "isTransferable":false,
-         "isUpgradable":false,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":10,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Helm",
-            "Subtype":"",
-            "Rune Word":"Po Wer Sru Ned Ev",
-            "Distribution":"Crafted",
-            "Date":"March 28, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": false,
+         "isEquipable": false,
+         "isUnequipable": false,
+         "isTradeable": false,
+         "isTransferable": false,
+         "isUpgradable": false,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 10,
+         "attributes": [],
+         "details": {
+            "Type": "Helm",
+            "Subtype": "",
+            "Rune Word": "Po Wer Sru Ned Ev",
+            "Distribution": "Crafted",
+            "Date": "March 28, 2021 - Now",
+            "Max Supply": "Unknown"
          }
       },
       {
-         "id":10,
-         "name":"Glory",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00010.png",
-         "value":"0",
-         "type":"w.TwoHandedWeapon",
-         "slots":[
+         "id": 10,
+         "name": "Glory",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00010.png",
+         "value": "0",
+         "type": "w.TwoHandedWeapon",
+         "slots": [
             "k.LeftHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Two-Handed Sword",
-            "Subtype":"Cloudstrike Sword",
-            "Rune Word":"Sol Ral Ith Eld Ort",
-            "Distribution":"Crafted",
-            "Date":"June 1, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Two-Handed Sword",
+            "Subtype": "Cloudstrike Sword",
+            "Rune Word": "Sol Ral Ith Eld Ort",
+            "Distribution": "Crafted",
+            "Date": "June 1, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.SOL",
-                  "quantity":1
+                  "id": "F.SOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.RAL",
-                  "quantity":1
+                  "id": "F.RAL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ITH",
-                  "quantity":1
+                  "id": "F.ITH",
+                  "quantity": 1
                },
                {
-                  "id":"F.ELD",
-                  "quantity":1
+                  "id": "F.ELD",
+                  "quantity": 1
                },
                {
-                  "id":"F.ORT",
-                  "quantity":1
+                  "id": "F.ORT",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":11,
-         "name":"Grace",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00011.png",
-         "value":"0",
-         "type":"w.TwoHandedWeapon",
-         "slots":[
+         "id": 11,
+         "name": "Grace",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00011.png",
+         "value": "0",
+         "type": "w.TwoHandedWeapon",
+         "slots": [
             "k.LeftHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Two-Handed Bow",
-            "Subtype":"Sage Bow",
-            "Rune Word":"Sol Ith Nef El Ort",
-            "Distribution":"Crafted",
-            "Date":"June 1, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Two-Handed Bow",
+            "Subtype": "Sage Bow",
+            "Rune Word": "Sol Ith Nef El Ort",
+            "Distribution": "Crafted",
+            "Date": "June 1, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.SOL",
-                  "quantity":1
+                  "id": "F.SOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ITH",
-                  "quantity":1
+                  "id": "F.ITH",
+                  "quantity": 1
                },
                {
-                  "id":"F.NEF",
-                  "quantity":1
+                  "id": "F.NEF",
+                  "quantity": 1
                },
                {
-                  "id":"F.EL",
-                  "quantity":1
+                  "id": "F.EL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ORT",
-                  "quantity":1
+                  "id": "F.ORT",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":12,
-         "name":"Genesis",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00012.png",
-         "value":"0",
-         "type":"w.OneHandedWeapon",
-         "slots":[
+         "id": 12,
+         "name": "Genesis",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00012.png",
+         "value": "0",
+         "type": "w.OneHandedWeapon",
+         "slots": [
             "k.LeftHand",
             "k.RightHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":10,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"One-Handed Dagger",
-            "Subtype":"Dimensional Dagger",
-            "Rune Word":"Sol Thul Amn Ort",
-            "Distribution":"Crafted",
-            "Date":"June 1, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 10,
+         "attributes": [],
+         "details": {
+            "Type": "One-Handed Dagger",
+            "Subtype": "Dimensional Dagger",
+            "Rune Word": "Sol Thul Amn Ort",
+            "Distribution": "Crafted",
+            "Date": "June 1, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.SOL",
-                  "quantity":1
+                  "id": "F.SOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.THUL",
-                  "quantity":1
+                  "id": "F.THUL",
+                  "quantity": 1
                },
                {
-                  "id":"F.AMN",
-                  "quantity":1
+                  "id": "F.AMN",
+                  "quantity": 1
                },
                {
-                  "id":"F.ORT",
-                  "quantity":1
+                  "id": "F.ORT",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":13,
-         "name":"Destiny",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00013.png",
-         "value":"0",
-         "type":"w.TwoHandedWeapon",
-         "slots":[
+         "id": 13,
+         "name": "Destiny",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00013.png",
+         "value": "0",
+         "type": "w.TwoHandedWeapon",
+         "slots": [
             "k.LeftHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Two-Handed Staff",
-            "Subtype":"Chrono Staff",
-            "Rune Word":"Sol Amn Ort Thul Ral",
-            "Distribution":"Crafted",
-            "Date":"June 1, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Two-Handed Staff",
+            "Subtype": "Chrono Staff",
+            "Rune Word": "Sol Amn Ort Thul Ral",
+            "Distribution": "Crafted",
+            "Date": "June 1, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.SOL",
-                  "quantity":1
+                  "id": "F.SOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.AMN",
-                  "quantity":1
+                  "id": "F.AMN",
+                  "quantity": 1
                },
                {
-                  "id":"F.ORT",
-                  "quantity":1
+                  "id": "F.ORT",
+                  "quantity": 1
                },
                {
-                  "id":"F.THUL",
-                  "quantity":1
+                  "id": "F.THUL",
+                  "quantity": 1
                },
                {
-                  "id":"F.RAL",
-                  "quantity":1
+                  "id": "F.RAL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":"D",
-         "name":"Wrath",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00014.png",
-         "value":"0",
-         "type":"w.OneHandedWeapon",
-         "slots":[
+         "id": "D",
+         "name": "Wrath",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00014.png",
+         "value": "0",
+         "type": "w.OneHandedWeapon",
+         "slots": [
             "k.LeftHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"One-Handed Claw",
-            "Subtype":"Unknown",
-            "Rune Word":"Shael Ith Dol Nef Sol",
-            "Distribution":"Crafted",
-            "Date":"June 11, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "One-Handed Claw",
+            "Subtype": "Unknown",
+            "Rune Word": "Shael Ith Dol Nef Sol",
+            "Distribution": "Crafted",
+            "Date": "June 11, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.SHAEL",
-                  "quantity":1
+                  "id": "F.SHAEL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ITH",
-                  "quantity":1
+                  "id": "F.ITH",
+                  "quantity": 1
                },
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.NEF",
-                  "quantity":1
+                  "id": "F.NEF",
+                  "quantity": 1
                },
                {
-                  "id":"F.SOL",
-                  "quantity":1
+                  "id": "F.SOL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":"M",
-         "name":"Fortress",
-         "category":"o.a.SHIELD",
-         "icon":"/images/items/00015.png",
-         "value":"0",
-         "type":"w.Shield",
-         "slots":[
+         "id": "M",
+         "name": "Fortress",
+         "category": "o.a.SHIELD",
+         "icon": "/images/items/00015.png",
+         "value": "0",
+         "type": "w.Shield",
+         "slots": [
             "k.RightHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":false,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":true,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Shield",
-            "Subtype":"Blessed Koran Shield",
-            "Distribution":"Crafted",
-            "Date":"June 11, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": false,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": true,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Shield",
+            "Subtype": "Blessed Koran Shield",
+            "Distribution": "Crafted",
+            "Date": "June 11, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.SHAEL",
-                  "quantity":1
+                  "id": "F.SHAEL",
+                  "quantity": 1
                },
                {
-                  "id":"F.TIR",
-                  "quantity":1
+                  "id": "F.TIR",
+                  "quantity": 1
                },
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.THUL",
-                  "quantity":1
+                  "id": "F.THUL",
+                  "quantity": 1
                },
                {
-                  "id":"F.NEF",
-                  "quantity":1
+                  "id": "F.NEF",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":"L",
-         "name":"Elder",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00016.png",
-         "value":"0",
-         "type":"w.OneHandedWeapon",
-         "slots":[
+         "id": "L",
+         "name": "Elder",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00016.png",
+         "value": "0",
+         "type": "w.OneHandedWeapon",
+         "slots": [
             "k.LeftHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"One-Handed Mace",
-            "Subtype":"Worldstone Mace",
-            "Rune Word":"Dol Amn Thul Ral Tal",
-            "Distribution":"Crafted",
-            "Date":"June 11, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "One-Handed Mace",
+            "Subtype": "Worldstone Mace",
+            "Rune Word": "Dol Amn Thul Ral Tal",
+            "Distribution": "Crafted",
+            "Date": "June 11, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.AMN",
-                  "quantity":1
+                  "id": "F.AMN",
+                  "quantity": 1
                },
                {
-                  "id":"F.THUL",
-                  "quantity":1
+                  "id": "F.THUL",
+                  "quantity": 1
                },
                {
-                  "id":"F.RAL",
-                  "quantity":1
+                  "id": "F.RAL",
+                  "quantity": 1
                },
                {
-                  "id":"F.TAL",
-                  "quantity":1
+                  "id": "F.TAL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":19,
-         "name":"Pledge",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00019.png",
-         "value":"0",
-         "type":"w.Helm",
-         "slots":[
+         "id": 19,
+         "name": "Pledge",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00019.png",
+         "value": "0",
+         "type": "w.Helm",
+         "slots": [
             "k.Head"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":10,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Helm",
-            "Subtype":"Warder Helm",
-            "Rune Word":"Nef Tir Sol Ort",
-            "Distribution":"Crafted",
-            "Date":"June 3, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 10,
+         "attributes": [],
+         "details": {
+            "Type": "Helm",
+            "Subtype": "Warder Helm",
+            "Rune Word": "Nef Tir Sol Ort",
+            "Distribution": "Crafted",
+            "Date": "June 3, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.NEF",
-                  "quantity":1
+                  "id": "F.NEF",
+                  "quantity": 1
                },
                {
-                  "id":"F.TIR",
-                  "quantity":1
+                  "id": "F.TIR",
+                  "quantity": 1
                },
                {
-                  "id":"F.SOL",
-                  "quantity":1
+                  "id": "F.SOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.ORT",
-                  "quantity":1
+                  "id": "F.ORT",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":20,
-         "name":"Flow",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00020.png",
-         "value":"0",
-         "type":"w.LegArmor",
-         "slots":[
+         "id": 20,
+         "name": "Flow",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00020.png",
+         "value": "0",
+         "type": "w.LegArmor",
+         "slots": [
             "k.Legs"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":10,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Leggings",
-            "Subtype":"Templar Chausses",
-            "Rune Word":"Dol Io Hel Lum",
-            "Distribution":"Crafted",
-            "Date":"June 26, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 10,
+         "attributes": [],
+         "details": {
+            "Type": "Leggings",
+            "Subtype": "Templar Chausses",
+            "Rune Word": "Dol Io Hel Lum",
+            "Distribution": "Crafted",
+            "Date": "June 26, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.IO",
-                  "quantity":1
+                  "id": "F.IO",
+                  "quantity": 1
                },
                {
-                  "id":"F.HEL",
-                  "quantity":1
+                  "id": "F.HEL",
+                  "quantity": 1
                },
                {
-                  "id":"F.LUM",
-                  "quantity":1
+                  "id": "F.LUM",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":21,
-         "name":"Guiding Light",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00021.png",
-         "value":"0",
-         "type":"w.TwoHandedWeapon",
-         "slots":[
+         "id": 21,
+         "name": "Guiding Light",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00021.png",
+         "value": "0",
+         "type": "w.TwoHandedWeapon",
+         "slots": [
             "k.LeftHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Two-Handed Sword",
-            "Subtype":"Moonlight Greatsword",
-            "Rune Word":"Zod Zod Zod Zod Zod",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Two-Handed Sword",
+            "Subtype": "Moonlight Greatsword",
+            "Rune Word": "Zod Zod Zod Zod Zod",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.ZOD",
-                  "quantity":1
+                  "id": "F.ZOD",
+                  "quantity": 1
                },
                {
-                  "id":"F.ZOD",
-                  "quantity":1
+                  "id": "F.ZOD",
+                  "quantity": 1
                },
                {
-                  "id":"F.ZOD",
-                  "quantity":1
+                  "id": "F.ZOD",
+                  "quantity": 1
                },
                {
-                  "id":"F.ZOD",
-                  "quantity":1
+                  "id": "F.ZOD",
+                  "quantity": 1
                },
                {
-                  "id":"F.ZOD",
-                  "quantity":1
+                  "id": "F.ZOD",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":22,
-         "name":"Lionheart",
-         "category":"o.a.WEAPON",
-         "icon":"/images/items/00022.png",
-         "value":"0",
-         "type":"w.OneHandedWeapon",
-         "slots":[
+         "id": 22,
+         "name": "Lionheart",
+         "category": "o.a.WEAPON",
+         "icon": "/images/items/00022.png",
+         "value": "0",
+         "type": "w.OneHandedWeapon",
+         "slots": [
             "k.LeftHand"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":true,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Sword",
-            "Subtype":"Templar Broadsword",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": true,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Sword",
+            "Subtype": "Templar Broadsword",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.IO",
-                  "quantity":1
+                  "id": "F.IO",
+                  "quantity": 1
                },
                {
-                  "id":"F.LUM",
-                  "quantity":1
+                  "id": "F.LUM",
+                  "quantity": 1
                },
                {
-                  "id":"F.SHAEL",
-                  "quantity":1
+                  "id": "F.SHAEL",
+                  "quantity": 1
                },
                {
-                  "id":"F.KO",
-                  "quantity":1
+                  "id": "F.KO",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":23,
-         "name":"Pressure",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00023.png",
-         "value":"0",
-         "type":"w.Glove",
-         "slots":[
+         "id": 23,
+         "name": "Pressure",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00023.png",
+         "value": "0",
+         "type": "w.Glove",
+         "slots": [
             "k.Hands"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Glove",
-            "Subtype":"Astral Gauntlets",
-            "Rune Word":"Ith Dol Ral Ko",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Glove",
+            "Subtype": "Astral Gauntlets",
+            "Rune Word": "Ith Dol Ral Ko",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.ITH",
-                  "quantity":1
+                  "id": "F.ITH",
+                  "quantity": 1
                },
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.RAL",
-                  "quantity":1
+                  "id": "F.RAL",
+                  "quantity": 1
                },
                {
-                  "id":"F.KO",
-                  "quantity":1
+                  "id": "F.KO",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":24,
-         "name":"Zeal",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00024.png",
-         "value":"0",
-         "type":"w.WristArmor",
-         "slots":[
+         "id": 24,
+         "name": "Zeal",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00024.png",
+         "value": "0",
+         "type": "w.WristArmor",
+         "slots": [
             "k.Wrists"
          ],
-         "isNew":true,
-         "isEquipable":false,
-         "isUnequipable":false,
-         "isTradeable":false,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":true,
-         "isRetired":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Bracers",
-            "Subtype":"Templar Armguards",
-            "Rune Word":"El Tal Shael Hel",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - August 30, 2021",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": false,
+         "isUnequipable": false,
+         "isTradeable": false,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": true,
+         "isRetired": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Bracers",
+            "Subtype": "Templar Armguards",
+            "Rune Word": "El Tal Shael Hel",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - August 30, 2021",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.EL",
-                  "quantity":1
+                  "id": "F.EL",
+                  "quantity": 1
                },
                {
-                  "id":"F.TAL",
-                  "quantity":1
+                  "id": "F.TAL",
+                  "quantity": 1
                },
                {
-                  "id":"F.SHAEL",
-                  "quantity":1
+                  "id": "F.SHAEL",
+                  "quantity": 1
                },
                {
-                  "id":"F.HEL",
-                  "quantity":1
+                  "id": "F.HEL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":25,
-         "name":"Balance",
-         "category":"o.a.ARMOR",
-         "icon":"/images/items/00025.png",
-         "value":"0",
-         "type":"w.Belt",
-         "slots":[
+         "id": 25,
+         "name": "Balance",
+         "category": "o.a.ARMOR",
+         "icon": "/images/items/00025.png",
+         "value": "0",
+         "type": "w.Belt",
+         "slots": [
             "k.Waist"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":true,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Belt",
-            "Subtype":"Wyrmhide Belt",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": true,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Belt",
+            "Subtype": "Wyrmhide Belt",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.EL",
-                  "quantity":1
+                  "id": "F.EL",
+                  "quantity": 1
                },
                {
-                  "id":"F.IO",
-                  "quantity":1
+                  "id": "F.IO",
+                  "quantity": 1
                },
                {
-                  "id":"F.HEL",
-                  "quantity":1
+                  "id": "F.HEL",
+                  "quantity": 1
                },
                {
-                  "id":"F.RAL",
-                  "quantity":1
+                  "id": "F.RAL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":26,
-         "name":"Eternity",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/00026.png",
-         "value":"0",
-         "type":"w.Ring",
-         "slots":[
+         "id": 26,
+         "name": "Eternity",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/00026.png",
+         "value": "0",
+         "type": "w.Ring",
+         "slots": [
             "k.Finger1",
             "k.Finger2"
          ],
-         "isNew":true,
-         "isEquipable":false,
-         "isUnequipable":false,
-         "isTradeable":false,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":true,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Ring",
-            "Subtype":"Inscribed Archon Band",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": false,
+         "isUnequipable": false,
+         "isTradeable": false,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": true,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Ring",
+            "Subtype": "Inscribed Archon Band",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.ELD",
-                  "quantity":1
+                  "id": "F.ELD",
+                  "quantity": 1
                },
                {
-                  "id":"F.AMN",
-                  "quantity":1
+                  "id": "F.AMN",
+                  "quantity": 1
                },
                {
-                  "id":"F.SHAEL",
-                  "quantity":1
+                  "id": "F.SHAEL",
+                  "quantity": 1
                },
                {
-                  "id":"F.IO",
-                  "quantity":1
+                  "id": "F.IO",
+                  "quantity": 1
                },
                {
-                  "id":"F.ZOD",
-                  "quantity":1
+                  "id": "F.ZOD",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":27,
-         "name":"Instinct",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/00027.png",
-         "value":"0",
-         "type":"w.Ring",
-         
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Ring",
-            "Subtype":"Glimmering Band",
-            "Rune Word":"Lum Dol Io Dol Lum",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - Now",
-            "Max Supply":"Unknown"
+         "id": 27,
+         "name": "Instinct",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/00027.png",
+         "value": "0",
+         "type": "w.Ring",
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Ring",
+            "Subtype": "Glimmering Band",
+            "Rune Word": "Lum Dol Io Dol Lum",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.LUM",
-                  "quantity":1
+                  "id": "F.LUM",
+                  "quantity": 1
                },
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.IO",
-                  "quantity":1
+                  "id": "F.IO",
+                  "quantity": 1
                },
                {
-                  "id":"F.DOL",
-                  "quantity":1
+                  "id": "F.DOL",
+                  "quantity": 1
                },
                {
-                  "id":"F.LUM",
-                  "quantity":1
+                  "id": "F.LUM",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":28,
-         "name":"Beacon",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/00028.png",
-         "value":"0",
-         "type":"w.Amulet",
-         "slots":[
+         "id": 28,
+         "name": "Beacon",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/00028.png",
+         "value": "0",
+         "type": "w.Amulet",
+         "slots": [
             "k.Neck"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":false,
-         "isRuneword":true,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Amulet",
-            "Subtype":"Lodestar Amulet",
-            "Rune Word":"Eld Lum Io Shael",
-            "Distribution":"Crafted",
-            "Date":"August 27, 2021 - Now",
-            "Max Supply":"Unknown"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": false,
+         "isRuneword": true,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Amulet",
+            "Subtype": "Lodestar Amulet",
+            "Rune Word": "Eld Lum Io Shael",
+            "Distribution": "Crafted",
+            "Date": "August 27, 2021 - Now",
+            "Max Supply": "Unknown"
          },
-         "recipe":{
-            "requirement":[
+         "recipe": {
+            "requirement": [
                {
-                  "id":"F.ELD",
-                  "quantity":1
+                  "id": "F.ELD",
+                  "quantity": 1
                },
                {
-                  "id":"F.LUM",
-                  "quantity":1
+                  "id": "F.LUM",
+                  "quantity": 1
                },
                {
-                  "id":"F.IO",
-                  "quantity":1
+                  "id": "F.IO",
+                  "quantity": 1
                },
                {
-                  "id":"F.SHAEL",
-                  "quantity":1
+                  "id": "F.SHAEL",
+                  "quantity": 1
                }
             ]
          }
       },
       {
-         "id":29,
-         "name":"Dragonlight",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/00029.png",
-         "value":"0",
-         "type":"w.Amulet",
-         "slots":[
+         "id": 29,
+         "name": "Dragonlight",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/00029.png",
+         "value": "0",
+         "type": "w.Amulet",
+         "slots": [
             "k.Neck"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":true,
-         "isDisabled":true,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":9,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Amulet",
-            "Subtype":"Royal Archon Amulet",
-            "Distribution":"Airdrop",
-            "Date":"September 12, 2021",
-            "Max Supply":"1000"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": true,
+         "isDisabled": true,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 9,
+         "attributes": [],
+         "details": {
+            "Type": "Amulet",
+            "Subtype": "Royal Archon Amulet",
+            "Distribution": "Airdrop",
+            "Date": "September 12, 2021",
+            "Max Supply": "1000"
          }
       },
       {
-         "id":1200,
-         "name":"Scholar's Codex",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/01200.png",
-         "value":"0",
-         "type":"w.Trinket",
-         
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Trinket",
-            "Subtype":"Codex",
-            "Distribution":"Reward",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 2, Epic: 4, Rare: 10, Magical: 20"
+         "id": 1200,
+         "name": "Scholar's Codex",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/01200.png",
+         "value": "0",
+         "type": "w.Trinket",
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Trinket",
+            "Subtype": "Codex",
+            "Distribution": "Reward",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 2, Epic: 4, Rare: 10, Magical: 20"
          }
       },
       {
-         "id":1201,
-         "name":"General's Medallion",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/01201.png",
-         "value":"0",
-         "type":"w.Trinket",
-         
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Trinket",
-            "Subtype":"Medallion",
-            "Distribution":"Reward",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 5, Epic: 10, Rare: 20, Magical: 30"
+         "id": 1201,
+         "name": "General's Medallion",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/01201.png",
+         "value": "0",
+         "type": "w.Trinket",
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Trinket",
+            "Subtype": "Medallion",
+            "Distribution": "Reward",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 5, Epic: 10, Rare: 20, Magical: 30"
          }
       },
       {
-         "id":1202,
-         "name":"Crafting Competition Certificate",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/01202.png",
-         "value":"0",
-         "rarity":"g.Normal",
-         "type":"w.Misc",
-         "slots":[
-            
-         ],
-         "isNew":true,
-         "isEquipable":false,
-         "isUnequipable":false,
-         "isTradeable":false,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Scroll",
-            "Subtype":"Memorabilia",
-            "Distribution":"Reward",
-            "Date":"June 12, 2021 - Now",
-            "Max Supply":"Unknown"
+         "id": 1202,
+         "name": "Crafting Competition Certificate",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/01202.png",
+         "value": "0",
+         "rarity": "g.Normal",
+         "type": "w.Misc",
+         "slots": [],
+         "isNew": true,
+         "isEquipable": false,
+         "isUnequipable": false,
+         "isTradeable": false,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Scroll",
+            "Subtype": "Memorabilia",
+            "Distribution": "Reward",
+            "Date": "June 12, 2021 - Now",
+            "Max Supply": "Unknown"
          }
       },
       {
-         "id":1203,
-         "name":"Seed of Rebirth",
-         "category":"o.a.ACCESSORY",
-         "icon":"https://i.imgur.com/lTxW6Bk.png",
-         "value":"0",
-         "type":"w.Trinket",
-         
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Trinket",
-            "Subtype":"Medallion",
-            "Distribution":"Reward",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 5, Rare: 20, Magical: 50"
+         "id": 1203,
+         "name": "Seed of Rebirth",
+         "category": "o.a.ACCESSORY",
+         "icon": "https://i.imgur.com/lTxW6Bk.png",
+         "value": "0",
+         "type": "w.Trinket",
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Trinket",
+            "Subtype": "Medallion",
+            "Distribution": "Reward",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 5, Rare: 20, Magical: 50"
          }
       },
       {
-         "id":1204,
-         "name":"Spire Seed",
-         "category":"o.a.ACCESSORY",
-         "icon":"https://i.imgur.com/xJjqWZE.png",
-         "value":"0",
-         "type":"w.Trinket",
-         
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Trinket",
-            "Subtype":"Medallion",
-            "Distribution":"Reward",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 5, Rare: 20, Magical: 50"
+         "id": 1204,
+         "name": "Spire Seed",
+         "category": "o.a.ACCESSORY",
+         "icon": "https://i.imgur.com/xJjqWZE.png",
+         "value": "0",
+         "type": "w.Trinket",
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Trinket",
+            "Subtype": "Medallion",
+            "Distribution": "Reward",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 5, Rare: 20, Magical: 50"
          }
       },
       {
-         "id":3e3,
-         "name":"Golden Lion Cub",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03000.png",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3e3,
+         "name": "Golden Lion Cub",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03000.png",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3001,
-         "name":"Blue-Eyes White Drake",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03001.png",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3001,
+         "name": "Blue-Eyes White Drake",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03001.png",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3002,
-         "name":"Red-Eyes Black Drake",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03002.png",
-         "video":"/videos/items/03002.mp4",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3002,
+         "name": "Red-Eyes Black Drake",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03002.png",
+         "video": "/videos/items/03002.mp4",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3003,
-         "name":"Fairy Drake",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03003.png",
-         "video":"/videos/items/03003.mp4",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3003,
+         "name": "Fairy Drake",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03003.png",
+         "video": "/videos/items/03003.mp4",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3004,
-         "name":"Goblin Drake",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03004.png",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3004,
+         "name": "Goblin Drake",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03004.png",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3005,
-         "name":"Hippogryph",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03005.png",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3005,
+         "name": "Hippogryph",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03005.png",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3006,
-         "name":"Wyvern",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03006.png",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3006,
+         "name": "Wyvern",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03006.png",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3007,
-         "name":"Forest Turtle",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03007.png",
-         "video":"/videos/items/03007.mp4",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3007,
+         "name": "Forest Turtle",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03007.png",
+         "video": "/videos/items/03007.mp4",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
          }
       },
       {
-         "id":3008,
-         "name":"Skeleton Drake",
-         "category":"o.a.ACCESSORY",
-         "icon":"/images/items/03008.png",
-         "value":"0",
-         "type":"w.Pet",
-         "slots":[
+         "id": 3008,
+         "name": "Skeleton Drake",
+         "category": "o.a.ACCESSORY",
+         "icon": "/images/items/03008.png",
+         "value": "0",
+         "type": "w.Pet",
+         "slots": [
             "k.Pet"
          ],
-         "isNew":true,
-         "isEquipable":true,
-         "isUnequipable":false,
-         "isTradeable":true,
-         "isTransferable":true,
-         "isUpgradable":true,
-         "isCraftable":false,
-         "isDisabled":false,
-         "isRuneword":false,
-         "createdDate":0,
-         "hotness":1,
-         "attributes":[
-            
-         ],
-         "details":{
-            "Type":"Pet",
-            "Subtype":"Battle Pet",
-            "Distribution":"Fundraiser",
-            "Date":"June 12, 2021 - June 12, 2021",
-            "Max Supply":"1"
+         "isNew": true,
+         "isEquipable": true,
+         "isUnequipable": false,
+         "isTradeable": true,
+         "isTransferable": true,
+         "isUpgradable": true,
+         "isCraftable": false,
+         "isDisabled": false,
+         "isRuneword": false,
+         "createdDate": 0,
+         "hotness": 1,
+         "attributes": [],
+         "details": {
+            "Type": "Pet",
+            "Subtype": "Battle Pet",
+            "Distribution": "Fundraiser",
+            "Date": "June 12, 2021 - June 12, 2021",
+            "Max Supply": "1"
          }
       }
    ]
